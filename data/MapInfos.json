@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"TEST","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":886.8},
+{"id":2,"expanded":false,"name":"Infirmary","order":6,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"town","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":553.1999999999999},
+{"id":4,"expanded":false,"name":"Path","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":790.8},
+{"id":5,"expanded":true,"name":"Castle","order":4,"parentId":0,"scrollX":1081.2,"scrollY":1688.3999999999999},
+{"id":6,"expanded":false,"name":"Throne","order":5,"parentId":0,"scrollX":973.1999999999999,"scrollY":718.8}
+]

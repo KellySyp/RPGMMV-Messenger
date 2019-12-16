@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[5,5,1,0,1]},{"code":355,"indent":0,"parameters":["$gameVariables.setValue(3, $gamePlayer.x);"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(4, $gamePlayer.y);"]},{"code":655,"indent":0,"parameters":["$gameParty.removeActor($gameParty.leader().actorId());"]},{"code":655,"indent":0,"parameters":["$gamePlayer.locate($gameMap.event($gameVariables.value(2)).x, $gameMap.event($gameVariables.value(2)).y);"]},{"code":655,"indent":0,"parameters":["$gameMap.event($gameVariables.value(2)).setPosition($gameVariables.value(3), $gameVariables.value(4));"]},{"code":655,"indent":0,"parameters":["$gameParty.addActor($gameVariables.value(1));"]},{"code":655,"indent":0,"parameters":["$gameActors.actor($gameVariables.value(1)).addState(4);"]},{"code":655,"indent":0,"parameters":["$gamePlayer.setDirection(2);"]},{"code":655,"indent":0,"parameters":["$gameMessage.add(\"You have spread the plague.\");"]},{"code":311,"indent":0,"parameters":[0,0,0,0,100,false]},{"code":0,"indent":0,"parameters":[]}],"name":"SwitchPlayer","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
